@@ -1,6 +1,6 @@
 # BeStrong
 ## Requirements
-1 App Service Plan
+#1 App Service Plan
 
 1 App Service - integrate with VNet, enable System Managed Identity
 
